@@ -1,0 +1,1 @@
+Student project of "Very Bad Trips" - not a serious exercise.
